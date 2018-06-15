@@ -1,0 +1,11 @@
+{
+  "name": "discord-web-page-status-bot",
+  "version": "1.0.0",
+  "description": "A discord bot that sends a message to a admin channel if a services/website goes down.",
+  "main": "discord.js",
+  "scripts": {
+    "test": "node discord.js"
+  },
+  "author": "James Dixon",
+  "license": "ISC"
+}
