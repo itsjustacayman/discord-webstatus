@@ -6,6 +6,8 @@ This discord bot allows someone to put this on a server and you can ping a web s
 ```shell
  - upload discord.js
  - npm install
+   - npm install discord.js
+   - npm install request
  - edit discord.js
  - run node discord.js
  ```
